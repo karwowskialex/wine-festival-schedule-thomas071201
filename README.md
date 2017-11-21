@@ -14,8 +14,8 @@ In this project, you will use a table to layout the schedule for a fictional win
 8. Inside each `<tr>`, create two cells using the `<td>` tag. The first `<td>` element in each row should have the class left.
 9. Inside the `<td class="left">` elements, add `<h3>` elements that include times from 12:00 PM to 04:00 PM.
 10. In each `<td>` element that does not have the class left, include the event that corresponds with the time.
-..* Welcome Reception
-..* Storytelling & Tasting
+.. * Welcome Reception
+.. * Storytelling & Tasting
    * Wine Luncheon
    * Aguillar Family Wines
    * Wine & Cheese Tasting
